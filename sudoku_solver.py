@@ -45,6 +45,7 @@ def solve(sudoku):
                 sudoku[x][y] = 0
     return False
 
+"""
 # main:
 # generate a sudoku
 board = generate()
@@ -68,7 +69,7 @@ solve(sudoku)
 
 for line in sudoku:
     print(line)
-
+"""
             
         
 
